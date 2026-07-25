@@ -1,195 +1,206 @@
-<h1 align="center">Hi 👋, I'm Hrushikesh Lomte</h1>
+<h1 align="center">Hi 👋 I'm Hrushikesh Lomte</h1>
 
 <h3 align="center">
-AI & Machine Learning Engineer | Generative AI | Computer Vision | Python Developer
+AI & Machine Learning Engineer • Generative AI • Computer Vision • Software Engineer
 </h3>
 
 <p align="center">
-Building intelligent applications using Machine Learning, Deep Learning, Computer Vision, and Generative AI to solve real-world problems.
+Building intelligent AI applications that solve real-world problems through Machine Learning, Deep Learning, Computer Vision, and Large Language Models.
 </p>
 
----
+<p align="center">
 
-# About Me
-
-- 🎓 B.E. Graduate in Artificial Intelligence & Data Science
-- 🤖 Passionate about Artificial Intelligence, Machine Learning, and Generative AI
-- 🧠 Interested in LLMs, Agentic AI, RAG, Computer Vision, and AI Automation
-- 💻 Building end-to-end AI applications with Python, FastAPI, React, and Streamlit
-- 🌱 Currently learning AI Agents, MCP, RAG, and production AI systems
-- 🚀 Open to AI Engineer, Machine Learning Engineer, Generative AI Engineer, and Software Engineer opportunities
-- 📫 Reach me at **lomtehrushikesh@gmail.com**
-
----
-
-# Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://github.com/PrinceRushi07">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="mailto:lomtehrushikesh@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/PrinceRushi07">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://www.instagram.com/rushiilomte">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
 </a>
+
 </p>
+
+---
+
+# About Me
+
+🎓 AI & Data Science Graduate
+
+💻 AI & Machine Learning Engineer passionate about solving real-world problems through intelligent software.
+
+🚀 Interested in
+
+- Machine Learning
+- Deep Learning
+- Generative AI
+- Computer Vision
+- AI Agents
+- Large Language Models
+- Software Engineering
+- Full Stack AI Applications
+
+🌱 Currently Learning
+
+- Agentic AI
+- Model Context Protocol (MCP)
+- Retrieval-Augmented Generation (RAG)
+- LangChain
+- CrewAI
+- Production AI Systems
+
+📫 Email
+
+```
+lomtehrushikesh@gmail.com
+```
 
 ---
 
 # Tech Stack
 
-### Programming Languages
+### Languages
 
-Python • Java • JavaScript • SQL
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
 
-### Artificial Intelligence
+---
 
-Machine Learning
+### AI & Machine Learning
 
-Deep Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-Generative AI
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-Computer Vision
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-Natural Language Processing
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
 
-Large Language Models (LLMs)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 
-Prompt Engineering
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 
-Retrieval-Augmented Generation (RAG)
+---
 
-### Frameworks
+### Backend
 
-FastAPI
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
 
-Flask
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
 
-Django
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
 
-React
+---
 
-Streamlit
+### Frontend
 
-TensorFlow
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 
-PyTorch
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
 
-Scikit-learn
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
 
-OpenCV
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
+
+---
 
 ### Databases
 
-MongoDB
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 
-MySQL
-
-SQLite
-
-### Cloud & DevOps
-
-Git
-
-GitHub
-
-AWS
-
-Vercel
-
-Render
-
-### Tools
-
-NumPy
-
-Pandas
-
-Matplotlib
-
-Power BI
-
-VS Code
-
-Jupyter Notebook
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
 ---
 
 # Featured Projects
 
-## AI Voice Recruitment System
+## 🎤 AI Voice Recruitment System
 
-AI-powered voice recruitment platform that automates candidate interviews through intelligent voice interaction and AI-based response evaluation.
+An AI-powered voice recruitment platform that automates candidate interviews through intelligent voice interaction and AI-based response evaluation.
 
-🔗 https://github.com/PrinceRushi07/ai-voice-recruitment-system
+**Repository**
 
-🌐 https://ai-recruiter-xi.vercel.app/
+https://github.com/PrinceRushi07/ai-voice-recruitment-system
 
----
+**Live Demo**
 
-## RipenX – Mango Ripeness Classification
-
-Deep Learning and Computer Vision application that predicts mango ripeness and provides harvest recommendations using MobileNetV2 and Random Forest.
-
-🔗 https://github.com/PrinceRushi07/ripenx-mango-ripeness-classification
-
-🌐 https://ripenx.online
+https://ai-recruiter-xi.vercel.app/
 
 ---
 
-## EatSafe – AI Food Analyzer
+## 🥭 RipenX
 
-AI-powered food authenticity verification and nutrition analysis system using OCR, Computer Vision, and Machine Learning.
+AI-powered mango ripeness classification and harvest recommendation using MobileNetV2, Random Forest, React, and Python.
 
-🔗 https://github.com/PrinceRushi07/eatsafe-ai-food-analyzer
+**Repository**
 
-🌐 https://eatsafe-analyzer.streamlit.app/
+https://github.com/PrinceRushi07/ripenx-mango-ripeness-classification
 
----
+**Live Demo**
 
-## Player Re-Identification in Sports
-
-Computer Vision project that combines YOLOv8 and DeepSORT with custom IoU-based global ID assignment for persistent football player tracking.
+https://ripenx.online
 
 ---
 
-## HairGlow Vision
+## 🥗 EatSafe
 
-AI-powered hair and scalp analysis system for predicting hairfall risk, assessing hair health, and identifying possible nutritional deficiencies using Deep Learning.
+AI-powered food authenticity verification and nutrition analysis using OCR, Computer Vision, and Machine Learning.
 
----
+**Repository**
 
-# Currently Learning
+https://github.com/PrinceRushi07/eatsafe-ai-food-analyzer
 
-- Agentic AI
-- MCP (Model Context Protocol)
-- AI Agents
-- RAG Systems
-- LangChain
-- CrewAI
-- Production LLM Applications
+**Live Demo**
+
+https://eatsafe-analyzer.streamlit.app/
 
 ---
 
-# GitHub Statistics
+# GitHub Analytics
 
-![](https://github-readme-stats.vercel.app/api?username=PrinceRushi07&show_icons=true&theme=github_dark)
+<p align="center">
 
-![](https://streak-stats.demolab.com?user=PrinceRushi07&theme=github-dark)
+<img src="https://github-readme-stats.vercel.app/api?username=PrinceRushi07&show_icons=true&theme=github_dark&hide_border=true"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceRushi07&layout=compact&theme=github_dark)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PrinceRushi07&theme=github-dark&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceRushi07&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
 
 ---
 
-# Let's Build Something Amazing Together
+# Current Focus
 
-I enjoy collaborating on AI, Machine Learning, Computer Vision, Generative AI, and open-source projects. If you have an exciting opportunity or idea, feel free to connect.
+✔ Building Production AI Applications
+
+✔ Open Source Contributions
+
+✔ Generative AI
+
+✔ AI Agents
+
+✔ Computer Vision
+
+✔ Software Engineering
+
+---
+
+# Let's Connect
+
+I'm always interested in collaborating on AI, Machine Learning, Generative AI, Computer Vision, and Software Engineering projects.
+
+📧 **Email:** **lomtehrushikesh@gmail.com**
+
+💼 **LinkedIn:** Add your LinkedIn profile URL here.
+
+⭐ If you like my projects, consider giving them a star.
