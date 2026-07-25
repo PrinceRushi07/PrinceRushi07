@@ -1,24 +1,195 @@
-# 💫 About Me:
-AI & Machine Learning Engineer focused on developing intelligent applications with Python, Computer Vision, Deep Learning, and Generative AI. Passionate about solving real-world problems through AI, continuous learning, and open-source development.
+<h1 align="center">Hi 👋, I'm Hrushikesh Lomte</h1>
 
+<h3 align="center">
+AI & Machine Learning Engineer | Generative AI | Computer Vision | Python Developer
+</h3>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rushiilomte) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Hrushikesh Lomte) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lomtehrushikesh@gmail.com) 
-
-# 💻 Tech Stack:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=PrinceRushi07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=PrinceRushi07&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=PrinceRushi07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=PrinceRushi07&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+Building intelligent applications using Machine Learning, Deep Learning, Computer Vision, and Generative AI to solve real-world problems.
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=PrinceRushi07&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# About Me
+
+- 🎓 B.E. Graduate in Artificial Intelligence & Data Science
+- 🤖 Passionate about Artificial Intelligence, Machine Learning, and Generative AI
+- 🧠 Interested in LLMs, Agentic AI, RAG, Computer Vision, and AI Automation
+- 💻 Building end-to-end AI applications with Python, FastAPI, React, and Streamlit
+- 🌱 Currently learning AI Agents, MCP, RAG, and production AI systems
+- 🚀 Open to AI Engineer, Machine Learning Engineer, Generative AI Engineer, and Software Engineer opportunities
+- 📫 Reach me at **lomtehrushikesh@gmail.com**
+
+---
+
+# Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:lomtehrushikesh@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/PrinceRushi07">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.instagram.com/rushiilomte">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+</p>
+
+---
+
+# Tech Stack
+
+### Programming Languages
+
+Python • Java • JavaScript • SQL
+
+### Artificial Intelligence
+
+Machine Learning
+
+Deep Learning
+
+Generative AI
+
+Computer Vision
+
+Natural Language Processing
+
+Large Language Models (LLMs)
+
+Prompt Engineering
+
+Retrieval-Augmented Generation (RAG)
+
+### Frameworks
+
+FastAPI
+
+Flask
+
+Django
+
+React
+
+Streamlit
+
+TensorFlow
+
+PyTorch
+
+Scikit-learn
+
+OpenCV
+
+### Databases
+
+MongoDB
+
+MySQL
+
+SQLite
+
+### Cloud & DevOps
+
+Git
+
+GitHub
+
+AWS
+
+Vercel
+
+Render
+
+### Tools
+
+NumPy
+
+Pandas
+
+Matplotlib
+
+Power BI
+
+VS Code
+
+Jupyter Notebook
+
+---
+
+# Featured Projects
+
+## AI Voice Recruitment System
+
+AI-powered voice recruitment platform that automates candidate interviews through intelligent voice interaction and AI-based response evaluation.
+
+🔗 https://github.com/PrinceRushi07/ai-voice-recruitment-system
+
+🌐 https://ai-recruiter-xi.vercel.app/
+
+---
+
+## RipenX – Mango Ripeness Classification
+
+Deep Learning and Computer Vision application that predicts mango ripeness and provides harvest recommendations using MobileNetV2 and Random Forest.
+
+🔗 https://github.com/PrinceRushi07/ripenx-mango-ripeness-classification
+
+🌐 https://ripenx.online
+
+---
+
+## EatSafe – AI Food Analyzer
+
+AI-powered food authenticity verification and nutrition analysis system using OCR, Computer Vision, and Machine Learning.
+
+🔗 https://github.com/PrinceRushi07/eatsafe-ai-food-analyzer
+
+🌐 https://eatsafe-analyzer.streamlit.app/
+
+---
+
+## Player Re-Identification in Sports
+
+Computer Vision project that combines YOLOv8 and DeepSORT with custom IoU-based global ID assignment for persistent football player tracking.
+
+---
+
+## HairGlow Vision
+
+AI-powered hair and scalp analysis system for predicting hairfall risk, assessing hair health, and identifying possible nutritional deficiencies using Deep Learning.
+
+---
+
+# Currently Learning
+
+- Agentic AI
+- MCP (Model Context Protocol)
+- AI Agents
+- RAG Systems
+- LangChain
+- CrewAI
+- Production LLM Applications
+
+---
+
+# GitHub Statistics
+
+![](https://github-readme-stats.vercel.app/api?username=PrinceRushi07&show_icons=true&theme=github_dark)
+
+![](https://streak-stats.demolab.com?user=PrinceRushi07&theme=github-dark)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceRushi07&layout=compact&theme=github_dark)
+
+---
+
+# Let's Build Something Amazing Together
+
+I enjoy collaborating on AI, Machine Learning, Computer Vision, Generative AI, and open-source projects. If you have an exciting opportunity or idea, feel free to connect.
