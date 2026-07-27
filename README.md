@@ -18,7 +18,7 @@ Building intelligent AI applications that solve real-world problems through Mach
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/hrushikesh-lomte-b2a611281/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -201,6 +201,6 @@ I'm always interested in collaborating on AI, Machine Learning, Generative AI, C
 
 📧 **Email:** **lomtehrushikesh@gmail.com**
 
-💼 **LinkedIn:** Add your LinkedIn profile URL here.
+💼 **LinkedIn:** **https://www.linkedin.com/in/hrushikesh-lomte-b2a611281/**
 
 ⭐ If you like my projects, consider giving them a star.
